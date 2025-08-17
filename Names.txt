@@ -1,5 +1,14 @@
 {
-  "General": ["Alice", "Bob", "Charlie", "Diana", "Ethan"],
-  "VIP": ["Fiona", "George", "Hannah", "Ian", "Julia"],
-  "Moderator": ["Kevin", "Luna", "Mason", "Nora", "Oliver"]
+  "General": {
+    "color": "#FFFFFF",
+    "names": ["Alice", "Bob", "Charlie", "Diana", "Ethan"]
+  },
+  "VIP": {
+    "color": "#FFD700",
+    "names": ["Fiona", "George", "Hannah", "Ian", "Julia"]
+  },
+  "Moderator": {
+    "color": "#00BFFF",
+    "names": ["Kevin", "Luna", "Mason", "Nora", "Oliver"]
+  }
 }

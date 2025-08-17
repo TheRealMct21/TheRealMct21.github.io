@@ -1,22 +1,5 @@
-[
-  { "name": "Alice", "color": "#FF5733" },
-  { "name": "Bob", "color": "#33FF57" },
-  { "name": "Charlie", "color": "#3357FF" },
-  { "name": "Diana", "color": "#FF33A8" },
-  { "name": "Ethan", "color": "#33FFF3" },
-  { "name": "Fiona", "color": "#F3FF33" },
-  { "name": "George", "color": "#FF8C33" },
-  { "name": "Hannah", "color": "#8C33FF" },
-  { "name": "Ian", "color": "#33FF8C" },
-  { "name": "Julia", "color": "#FF3380" },
-  { "name": "Kevin", "color": "#33A8FF" },
-  { "name": "Luna", "color": "#A8FF33" },
-  { "name": "Mason", "color": "#FF5733" },
-  { "name": "Nora", "color": "#33FF57" },
-  { "name": "Oliver", "color": "#3357FF" },
-  { "name": "Paula", "color": "#FF33A8" },
-  { "name": "Quinn", "color": "#33FFF3" },
-  { "name": "Ryan", "color": "#F3FF33" },
-  { "name": "Sophia", "color": "#FF8C33" },
-  { "name": "Tyler", "color": "#8C33FF" }
-]
+{
+  "General": ["Alice", "Bob", "Charlie", "Diana", "Ethan"],
+  "VIP": ["Fiona", "George", "Hannah", "Ian", "Julia"],
+  "Moderator": ["Kevin", "Luna", "Mason", "Nora", "Oliver"]
+}

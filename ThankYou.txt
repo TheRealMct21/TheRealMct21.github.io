@@ -1,1 +1,13 @@
+Vampire Infection is a fast-paced automatic vampire tag game.
 
+When you join, you’ll be assigned as either a vampire (red) or a human (green).
+
+Vampires can “infect” humans by getting close, turning them into vampires too.
+
+The match starts automatically once enough players are in and resets when all humans have been infected.
+
+Simple rules, nonstop action — survive as a human or spread the curse as a vampire!
+
+Thanks to everyone who’s joined and made this world so much fun — you’re the reason it’s alive and popular!
+
+Stay tuned — more game modes, features, and surprises are coming soon. Keep playing, keep spreading the infection, and help us make Vampire Infection even crazier and more fun!

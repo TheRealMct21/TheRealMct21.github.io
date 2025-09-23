@@ -1,13 +1,11 @@
-Vampire Infection is a fast-paced automatic vampire tag game.
+string gameDescription = 
+"Vampire Infection is a <color=red>fast-paced automatic vampire tag game</color>.\n\n" +
+"When you join, you’ll be assigned as either a <color=red>vampire</color> or a <color=green>human</color>.\n\n" +
+"<color=red>Vampires</color> can “infect” <color=green>humans</color> by getting close, turning them into vampires too.\n\n" +
+"The match starts automatically once enough players are in and resets when all <color=green>humans</color> have been infected.\n\n" +
+"Simple rules, nonstop action — survive as a <color=green>human</color> or spread the curse as a <color=red>vampire</color>!\n\n" +
+"Thanks to everyone who’s joined and made this world so much fun — you’re the reason it’s alive and popular!\n\n" +
+"Stay tuned — more game modes, features, and surprises are coming soon. Keep playing, keep spreading the infection, and help us make <color=red>Vampire Infection</color> even crazier and more fun!";
 
-When you join, you’ll be assigned as either a vampire (red) or a human (green).
-
-Vampires can “infect” humans by getting close, turning them into vampires too.
-
-The match starts automatically once enough players are in and resets when all humans have been infected.
-
-Simple rules, nonstop action — survive as a human or spread the curse as a vampire!
-
-Thanks to everyone who’s joined and made this world so much fun — you’re the reason it’s alive and popular!
-
-Stay tuned — more game modes, features, and surprises are coming soon. Keep playing, keep spreading the infection, and help us make Vampire Infection even crazier and more fun!
+// Apply the string to your TextMeshProUGUI component
+ApplyString(gameDescription);

@@ -1,4 +1,4 @@
-string gameDescription = 
+
 "Vampire Infection is a <color=red>fast-paced automatic vampire tag game</color>.\n\n" +
 "When you join, you’ll be assigned as either a <color=red>vampire</color> or a <color=green>human</color>.\n\n" +
 "<color=red>Vampires</color> can “infect” <color=green>humans</color> by getting close, turning them into vampires too.\n\n" +
@@ -7,5 +7,3 @@ string gameDescription =
 "Thanks to everyone who’s joined and made this world so much fun — you’re the reason it’s alive and popular!\n\n" +
 "Stay tuned — more game modes, features, and surprises are coming soon. Keep playing, keep spreading the infection, and help us make <color=red>Vampire Infection</color> even crazier and more fun!";
 
-// Apply the string to your TextMeshProUGUI component
-ApplyString(gameDescription);

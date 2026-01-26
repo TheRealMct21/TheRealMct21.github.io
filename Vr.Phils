@@ -1,1 +1,18 @@
-Vr.Phils
+Line 01: This should be the first visible line.
+Line 02: Each line adds to vertical measurement.
+Line 03: Continue until container is full.
+Line 04: Font size 36 with default line spacing.
+Line 05: Should give approximately 16-18 lines.
+Line 06: Counting current line number.
+Line 07: Reaching halfway point now.
+Line 08: Vertical space utilization check.
+Line 09: Text should fill most of height.
+Line 10: Without overflowing boundaries.
+Line 11: Near the bottom section now.
+Line 12: Final lines for validation.
+Line 13: If you see this line clearly.
+Line 14: Height is likely sufficient.
+Line 15: Border proximity test.
+Line 16: Approaching maximum capacity.
+Line 17: Potentially last visible line.
+Line 18: Final validation complete.

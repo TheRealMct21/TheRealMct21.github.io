@@ -1,20 +1,2 @@
-DragonSlayer99
-PixelWizard
-CosmicPenguin
-NeonNinja
-StarGazerX
-RocketRider
-LunaShadow
-CyberKnight
-MangoSlicer
-QuantumFlux
-BlazePhoenix
-EchoStorm
-GlitchMaster
-MysticTiger
-TurboFalcon
-SilentWolf
-FireByte
-ShadowCaster
-CrystalMage
-IronGolem
+Yo Its MC
+[1] Local Player
